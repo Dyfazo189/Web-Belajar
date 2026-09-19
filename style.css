@@ -211,3 +211,10 @@ tr:hover td { background: rgba(215, 181, 109, .05); }
   *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .01ms !important; }
   .site-nav { position: relative; top: 0; }
 }
+
+
+/* Form contact — ukuran nyaman dan premium */
+.contact-form { gap: 14px; width: 100%; max-width: 620px; }
+.contact-form input, .contact-form textarea { padding: 16px 18px; border: 1px solid rgba(255,255,255,.14); border-radius: 16px; background: rgba(8,14,28,.72); }
+.contact-form input { min-height: 52px; }
+.contact-form textarea { min-height: 150px; }
