@@ -213,7 +213,7 @@ tr:hover td { background: rgba(215, 181, 109, .05); }
 }
 
 
-/* Form contact — ukuran nyaman dan premium */
+/* Form contact */
 .contact-form { gap: 14px; width: 100%; max-width: 620px; }
 .contact-form input, .contact-form textarea { padding: 16px 18px; border: 1px solid rgba(255,255,255,.14); border-radius: 16px; background: rgba(8,14,28,.72); }
 .contact-form input { min-height: 52px; }
